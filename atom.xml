@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mingyi.github.io</id>
     <title>MY lab</title>
-    <updated>2020-06-09T11:08:13.027Z</updated>
+    <updated>2020-06-09T11:12:51.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mingyi.github.io"/>
     <link rel="self" href="https://mingyi.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://mingyi.github.io/images/avatar.png</logo>
     <icon>https://mingyi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MY lab</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://mingyi.github.io/about/</id>
+        <link href="https://mingyi.github.io/about/">
+        </link>
+        <updated>2020-06-09T11:08:19.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://mingyi.github.io/post-images/1591701145080.jpeg" alt="" loading="lazy"></figure>
+<p>比特世界的又一个个人站点。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界范围内，工作的形态正在改变，你准备好了吗？]]></title>
         <id>https://mingyi.github.io/work-transition/</id>
