@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mingyi.github.io</id>
     <title>MY lab</title>
-    <updated>2020-06-09T11:14:38.213Z</updated>
+    <updated>2020-06-09T11:22:14.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mingyi.github.io"/>
     <link rel="self" href="https://mingyi.github.io/atom.xml"/>
@@ -10,16 +10,6 @@
     <logo>https://mingyi.github.io/images/avatar.png</logo>
     <icon>https://mingyi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MY lab</rights>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://mingyi.github.io/about/</id>
-        <link href="https://mingyi.github.io/about/">
-        </link>
-        <updated>2020-06-09T11:08:19.000Z</updated>
-        <content type="html"><![CDATA[<p>比特世界的又一个个人站点。</p>
-<figure data-type="image" tabindex="1"><img src="https://mingyi.github.io/post-images/1591701272225.jpeg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[世界范围内，工作的形态正在改变，你准备好了吗？]]></title>
         <id>https://mingyi.github.io/work-transition/</id>
@@ -240,6 +230,51 @@
 <p>这家全球性的协同办公巨头正在赌你愿意模糊工作和生活之间的界限，甚至更多。他们的未来取决于此。</p>
 <p><strong>101.女性专用办公室</strong>  <a href="http://www.bbc.com/worklife/article/20190719-female-only-co-working">Women-only workspaces</a></p>
 <p>专门针对女性的协同工作空间是对以男性为中心的私人会员俱乐部和技术孵化器的激增的直接反应。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于习惯养成，我终于懂了]]></title>
+        <id>https://mingyi.github.io/habit-development/</id>
+        <link href="https://mingyi.github.io/habit-development/">
+        </link>
+        <updated>2020-05-31T11:16:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>曾接触过一个广泛流传的认知：刻意养成一个习惯需要21天时间。直到看到一篇文章（见阅读原文链接），才意识到之前关于习惯养成的认知有偏差。习惯的养成需要时间，但又不仅仅需要时间，还需要正确的认知，这样才能够帮助我们克服认知偏差，真正的培养好习惯。<br>
+<img src="https://mingyi.github.io/post-images/1591701507107.png" alt="" loading="lazy"><br>
+制图翻译 by  Mingyi</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>曾接触过一个广泛流传的认知：刻意养成一个习惯需要21天时间。直到看到一篇文章（见阅读原文链接），才意识到之前关于习惯养成的认知有偏差。习惯的养成需要时间，但又不仅仅需要时间，还需要正确的认知，这样才能够帮助我们克服认知偏差，真正的培养好习惯。<br>
+<img src="https://mingyi.github.io/post-images/1591701507107.png" alt="" loading="lazy"><br>
+制图翻译 by  Mingyi</p>
+<!-- more -->
+<h4 id="看图说话">看图说话：</h4>
+<ol>
+<li>我们在习惯养成的过程中，预期和实际有偏差。</li>
+<li>在习惯养成的初期，你的实际收益会比预期的小，这个时候会产生一个失望的差值，而且这个阶段会持续一段时间，导致你对继续培养习惯感觉无望。</li>
+<li>在习惯的养成过程中，你的预期收益和实际收益会有一个交叉点，这一刻两个值相等。</li>
+<li>过了这个交叉点，你的实际收益会大于你的预期，习惯养成。</li>
+</ol>
+<blockquote>
+<p>同样，习惯养成的前期你的表现似乎一致没变化，直到你跨过一个关键的阈值，并开启一个新的水平的表现。在任何任务的早期和中期阶段，通常都会有一个失望的峡谷。你希望以线性的方式取得进展，而在最初的几天、几周甚至几个月里，看起来无效的变化是令人沮丧的。感觉你哪儿也去不了。这是任何组合过程的标志: 最强大的结果是延迟的。</p>
+</blockquote>
+<p>突破性的时刻往往是许多之前行动的结果，这些行动建立了释放重大变革所需的潜力。</p>
+<p>精通需要耐心， 所有的大事情都是从小事开始的。</p>
+<h4 id="拿我熟悉的跑步举例子">拿我熟悉的跑步举例子：</h4>
+<ol>
+<li>跑步的初级阶段，你没有任何经验，喘气混乱、跑步过后的肌肉酸痛都会超出预期，初期跑步收益比预期的要低。这个阶段，你并没有感觉自己能更好的控制自己的身体，反而感受更多的是痛苦。要么坚持下去，要么放弃。</li>
+<li>不放弃，继续坚持，等到某一个时刻，你的身体适应了跑步，呼吸不再局促，肌肉适应了跑步的强度也不那么频繁酸痛，这个时候你会觉得跑步没那么难。</li>
+<li>跑步的进阶阶段：开始主动的跑步，这个时候你的身体依赖上了跑步，多巴胺的分泌让你感觉舒服，你重新找到了掌控自己的身体的快感，运动的痛苦已经烟消云散，剩余的都是运动带来的欢悦。这个阶段，坚持习惯变成一个水到渠成的事情，你的阻力似乎小了很多。</li>
+</ol>
+<h4 id="你有没有一个一直想养成的习惯呢">你有没有一个一直想养成的习惯呢？</h4>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://mingyi.github.io/about/</id>
+        <link href="https://mingyi.github.io/about/">
+        </link>
+        <updated>2019-12-31T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>比特世界的又一个个人站点。</p>
+<figure data-type="image" tabindex="1"><img src="https://mingyi.github.io/post-images/1591701272225.jpeg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
